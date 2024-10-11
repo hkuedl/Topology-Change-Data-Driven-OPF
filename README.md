@@ -20,6 +20,8 @@ You can also find the code for processing the data in ```14 Bus System/Data Gene
 ### Reproduction
 If you want to run the proposed approach and get the results comparison, you can run ```Test Compare```.
 
+Currently, I'm tidying up the code to make it more readable! This repository will be updated recently.
+
 ## Citation
 ```
 @article{jia2024two,
