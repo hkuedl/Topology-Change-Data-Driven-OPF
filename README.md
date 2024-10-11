@@ -1,5 +1,6 @@
 # Topology-Change-Data-Driven-OPF
 Codes for "A Two-Stage Approach for Topology Change-Aware Data-Driven OPF"
+
 Authors: Yixiong Jia, Xian Wu, Zhifang Yang, and Yi Wang.
 
 ## Citation
