@@ -13,14 +13,12 @@ pip install requirements.txt
 ```
 
 ### Data
-All the clean data for experiments are saved in ```Data/GFC12```. 
+All the data this paper used can be found in ```14 Bus System/Data``` and ```97 Bus System/Data```. 
 
-The row data can be found in ```Data/GFC12 row```.
-
-You can also find the code for processing the data in this fold.
+You can also find the code for processing the data in ```14 Bus System/Data Generate``` and ```97 Bus System/Data Generate```.
 
 ### Reproduction
-If you want to run the proposed approach, you can run ```test.ipynb```.
+If you want to run the proposed approach and get the results comparison, you can run ```Test Compare```.
 
 ## Citation
 ```
